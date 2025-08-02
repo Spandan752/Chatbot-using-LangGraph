@@ -8,9 +8,9 @@ This is a smart AI chatbot built using Langchain and LangGraph, designed to hand
 * Clean Streamlit UI for easy interaction
 
 🛠 Tech Stack
-Langchain – for chaining LLM logic
-LangGraph – for flow control and state management
-Streamlit – for frontend deployment
+* Langchain – for chaining LLM logic
+* LangGraph – for flow control and state management
+* Streamlit – for frontend deployment
 
 📌 Usage
 Just run:
