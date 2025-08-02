@@ -23,4 +23,4 @@ streamlit run app.py
 
 
 🔄 Improvements Coming Soon
-This is just the beginning! I’ll be actively improving the chatbot with more tools, memory handling, and better UI integration.
+# This is just the beginning! I’ll be actively improving the chatbot with more tools, memory handling, and better UI integration.
